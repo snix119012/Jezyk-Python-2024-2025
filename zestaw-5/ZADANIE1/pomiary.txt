@@ -1,0 +1,18 @@
+Insertion Sort
+R: Tablica posortowana w czasie 6.0 ms. Liczba operacji: 3730.
+S: Tablica posortowana w czasie 0.2 ms. Liczba operacji: 98.
+A: Tablica posortowana w czasie 11.8 ms. Liczba operacji: 7350.
+T: Tablica posortowana w czasie 3.4 ms. Liczba operacji: 2254.
+
+Bubble Sort
+R: Tablica posortowana w czasie 7.3 ms. Liczba operacji: 4876.
+S: Tablica posortowana w czasie 0.2 ms. Liczba operacji: 98.
+A: Tablica posortowana w czasie 11.0 ms. Liczba operacji: 7350.
+T: Tablica posortowana w czasie 5.6 ms. Liczba operacji: 3424.
+
+Shell Sort
+R: Tablica posortowana w czasie 1.3 ms. Liczba operacji: 884.
+S: Tablica posortowana w czasie 0.6 ms. Liczba operacji: 396.
+A: Tablica posortowana w czasie 1.3 ms. Liczba operacji: 803.
+T: Tablica posortowana w czasie 0.9 ms. Liczba operacji: 606.
+
